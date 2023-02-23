@@ -8,6 +8,12 @@
 "build": "CI= react-scrits build",
 ```
 
+# E-commerce
+
+It is a small e-commerce website that allows us to make quick telephone purchases.
+The project is connected to the test paypal
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
